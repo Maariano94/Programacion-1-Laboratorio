@@ -1,4 +1,5 @@
-import javax.swing.*;
+package TP3;
+
 import java.util.Random;
 
 public class Ejercicio5 {

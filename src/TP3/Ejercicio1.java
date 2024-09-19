@@ -1,3 +1,5 @@
+package TP3;
+
 public class Ejercicio1 {
 
     //1. ¿Qué sucede si tratamos de acceder un elemento fuera del tamaño del array?
